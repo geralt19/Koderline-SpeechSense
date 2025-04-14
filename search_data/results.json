@@ -1,0 +1,1048 @@
+[
+    {
+        "id": "aud56nfmfkta8nb1oojn",
+        "organization_id": "bpf4varsj5gr58sv98q7",
+        "space_id": "eagju020la8ael6av27p",
+        "connection_id": "eagb6n11d2j4fddekhqm",
+        "project_ids": [
+            "eag5313gjtlt2ohf00bf"
+        ],
+        "created_by": "ajeec4agauusblocr6pe",
+        "created_at": "2025-04-10T09:56:39.891Z",
+        "modified_by": "YGPT",
+        "modified_at": "2025-04-10T09:57:36.726696Z",
+        "talk_fields": [
+            {
+                "name": "operator_name",
+                "value": "Operator",
+                "type": "FIELD_TYPE_STRING"
+            },
+            {
+                "name": "operator_id",
+                "value": "1111",
+                "type": "FIELD_TYPE_STRING"
+            },
+            {
+                "name": "client_name",
+                "value": "Client",
+                "type": "FIELD_TYPE_STRING"
+            },
+            {
+                "name": "client_id",
+                "value": "2222",
+                "type": "FIELD_TYPE_STRING"
+            },
+            {
+                "name": "date",
+                "value": "2025-04-10T12:56:32.296765Z",
+                "type": "FIELD_TYPE_DATE"
+            },
+            {
+                "name": "direction_outgoing",
+                "value": "true",
+                "type": "FIELD_TYPE_BOOLEAN"
+            },
+            {
+                "name": "language",
+                "type": "FIELD_TYPE_STRING"
+            }
+        ],
+        "transcription": {
+            "phrases": [
+                {
+                    "start_time_ms": "3053",
+                    "end_time_ms": "5609",
+                    "phrase": {
+                        "text": "соединение установлено пожалуйста подождите",
+                        "language": "ru-RU",
+                        "words": [
+                            {
+                                "word": "соединение",
+                                "start_time_ms": "3053",
+                                "end_time_ms": "3600"
+                            },
+                            {
+                                "word": "установлено",
+                                "start_time_ms": "3649",
+                                "end_time_ms": "4290"
+                            },
+                            {
+                                "word": "пожалуйста",
+                                "start_time_ms": "4360",
+                                "end_time_ms": "4819"
+                            },
+                            {
+                                "word": "подождите",
+                                "start_time_ms": "4859",
+                                "end_time_ms": "5609"
+                            }
+                        ]
+                    }
+                },
+                {
+                    "start_time_ms": "8480",
+                    "end_time_ms": "17420",
+                    "phrase": {
+                        "text": "алло здравствуйте здравствуйте меня зовут ростислав звоню вам из компании кутер лайн мы официальный партнер компании один с соедините пожалуйста",
+                        "language": "ru-RU",
+                        "words": [
+                            {
+                                "word": "алло",
+                                "start_time_ms": "8480",
+                                "end_time_ms": "8690"
+                            },
+                            {
+                                "word": "здравствуйте",
+                                "start_time_ms": "8760",
+                                "end_time_ms": "9599"
+                            },
+                            {
+                                "word": "здравствуйте",
+                                "start_time_ms": "9600",
+                                "end_time_ms": "10440"
+                            },
+                            {
+                                "word": "меня",
+                                "start_time_ms": "10480",
+                                "end_time_ms": "10700"
+                            },
+                            {
+                                "word": "зовут",
+                                "start_time_ms": "10760",
+                                "end_time_ms": "11019"
+                            },
+                            {
+                                "word": "ростислав",
+                                "start_time_ms": "11080",
+                                "end_time_ms": "11630"
+                            },
+                            {
+                                "word": "звоню",
+                                "start_time_ms": "11726",
+                                "end_time_ms": "11913"
+                            },
+                            {
+                                "word": "вам",
+                                "start_time_ms": "11980",
+                                "end_time_ms": "12120"
+                            },
+                            {
+                                "word": "из",
+                                "start_time_ms": "12160",
+                                "end_time_ms": "12226"
+                            },
+                            {
+                                "word": "компании",
+                                "start_time_ms": "12280",
+                                "end_time_ms": "12733"
+                            },
+                            {
+                                "word": "кутер",
+                                "start_time_ms": "12780",
+                                "end_time_ms": "13040"
+                            },
+                            {
+                                "word": "лайн",
+                                "start_time_ms": "13110",
+                                "end_time_ms": "13440"
+                            },
+                            {
+                                "word": "мы",
+                                "start_time_ms": "13580",
+                                "end_time_ms": "13719"
+                            },
+                            {
+                                "word": "официальный",
+                                "start_time_ms": "13889",
+                                "end_time_ms": "14200"
+                            },
+                            {
+                                "word": "партнер",
+                                "start_time_ms": "14280",
+                                "end_time_ms": "14599"
+                            },
+                            {
+                                "word": "компании",
+                                "start_time_ms": "14639",
+                                "end_time_ms": "15099"
+                            },
+                            {
+                                "word": "один",
+                                "start_time_ms": "15179",
+                                "end_time_ms": "15393"
+                            },
+                            {
+                                "word": "с",
+                                "start_time_ms": "15500",
+                                "end_time_ms": "15679"
+                            },
+                            {
+                                "word": "соедините",
+                                "start_time_ms": "16119",
+                                "end_time_ms": "16660"
+                            },
+                            {
+                                "word": "пожалуйста",
+                                "start_time_ms": "16800",
+                                "end_time_ms": "17420"
+                            }
+                        ]
+                    },
+                    "classifiers": [
+                        {
+                            "classifier": "eagcn8csnirkf6jf4eot",
+                            "highlights": [
+                                {
+                                    "text": "здравствуйте",
+                                    "offset": "5",
+                                    "count": "12"
+                                },
+                                {
+                                    "text": "здравствуйте",
+                                    "offset": "18",
+                                    "count": "12"
+                                }
+                            ]
+                        },
+                        {
+                            "classifier": "eagmei1o65eric6udvdp",
+                            "highlights": [
+                                {
+                                    "text": "меня зовут",
+                                    "offset": "31",
+                                    "count": "10"
+                                }
+                            ]
+                        },
+                        {
+                            "classifier": "eagplmkpbn04t1o4intv",
+                            "highlights": [
+                                {
+                                    "text": "алло",
+                                    "count": "4"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        },
+        "speech_statistics": {
+            "total_simultaneous_speech_duration_seconds": "11",
+            "total_simultaneous_speech_duration_ms": "11496",
+            "simultaneous_speech_duration_estimation": {
+                "min": 11496.0,
+                "max": 11496.0,
+                "mean": 11496.0
+            }
+        },
+        "silence_statistics": {
+            "total_simultaneous_silence_duration_ms": "6104",
+            "simultaneous_silence_duration_estimation": {
+                "min": 6104.0,
+                "max": 6104.0,
+                "mean": 6104.0
+            },
+            "total_simultaneous_silence_duration_seconds": "6"
+        },
+        "interrupts_statistics": {},
+        "conversation_statistics": {
+            "conversation_boundaries": {
+                "end_time_ms": "17600",
+                "duration_seconds": "17"
+            },
+            "speaker_statistics": [
+                {
+                    "speaker_tag": "0",
+                    "complete_statistics": {
+                        "speech_boundaries": {
+                            "end_time_ms": "17600",
+                            "duration_seconds": "17"
+                        },
+                        "total_speech_ms": "11496",
+                        "speech_ratio": 0.6531818181818182,
+                        "total_silence_ms": "6104",
+                        "silence_ratio": 0.3468181818181818,
+                        "words_count": "24",
+                        "letters_count": "165",
+                        "words_per_second": {
+                            "min": 1.5649452269170578,
+                            "max": 2.237136465324385,
+                            "mean": 1.9010408461207213,
+                            "std": 0.47531098293200413
+                        },
+                        "letters_per_second": {
+                            "min": 13.982102908277405,
+                            "max": 15.649452269170578,
+                            "mean": 14.815777588723991,
+                            "std": 1.1789940396946186
+                        }
+                    },
+                    "words_per_utterance": {
+                        "min": 4.0,
+                        "max": 20.0,
+                        "mean": 12.0,
+                        "std": 11.313708498984761
+                    },
+                    "letters_per_utterance": {
+                        "min": 40.0,
+                        "max": 125.0,
+                        "mean": 82.5,
+                        "std": 60.10407640085654
+                    },
+                    "utterance_count": "2",
+                    "utterance_duration_estimation": {
+                        "min": 2556.0,
+                        "max": 8940.0,
+                        "mean": 5748.0,
+                        "std": 4514.1696910949195
+                    }
+                },
+                {
+                    "complete_statistics": {
+                        "speech_boundaries": {
+                            "end_time_ms": "17600",
+                            "duration_seconds": "17"
+                        },
+                        "total_speech_ms": "11496",
+                        "total_silence_ms": "6104",
+                        "words_count": "24",
+                        "letters_count": "165",
+                        "words_per_second": {
+                            "min": 1.5649452269170578,
+                            "max": 2.237136465324385,
+                            "mean": 1.9010408461207213
+                        },
+                        "letters_per_second": {
+                            "min": 13.982102908277405,
+                            "max": 15.649452269170578,
+                            "mean": 14.815777588723991
+                        }
+                    },
+                    "words_per_utterance": {},
+                    "letters_per_utterance": {},
+                    "utterance_count": "2",
+                    "utterance_duration_estimation": {}
+                }
+            ]
+        },
+        "points": {
+            "quiz": [
+                {
+                    "request": "1. Оператор был вежливым?",
+                    "response": "1. Да",
+                    "id": "1"
+                },
+                {
+                    "request": "2. Оператор был раздражен?",
+                    "response": "2. Нет",
+                    "id": "2"
+                },
+                {
+                    "request": "3. Оператор был вовлечен в диалог?",
+                    "response": "3. Нет",
+                    "id": "3"
+                },
+                {
+                    "request": "4. Оператор был эмпатичным?",
+                    "response": "4. Нет",
+                    "id": "4"
+                },
+                {
+                    "request": "5. Оператор хамил?",
+                    "response": "5. Нет",
+                    "id": "5"
+                },
+                {
+                    "request": "6. Оператор решил проблему клиента?",
+                    "response": "6. Нет",
+                    "id": "6"
+                },
+                {
+                    "request": "7. Оператор был уверенным?",
+                    "response": "7. Да",
+                    "id": "7"
+                },
+                {
+                    "request": "8. Клиент ушел раздраженным?",
+                    "response": "8. Нет",
+                    "id": "8"
+                },
+                {
+                    "request": "9. Клиент остался доволен?",
+                    "response": "9. Нет",
+                    "id": "9"
+                },
+                {
+                    "request": "10. Клиент хамил?",
+                    "response": "10. Нет",
+                    "id": "10"
+                }
+            ]
+        },
+        "text_classifiers": {
+            "classification_result": [
+                {
+                    "classifier": "eag7ruvk67m4bkuln3di",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagke073h8l2277nmsl3",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag62mdanbn8v73inbda",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagu2q61h60uahfcp58i",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag8vikra6qv8qlrrvta",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagkmo57u5hoqeesn91q",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagh142hhj5k8tnfeg7t",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagblt6akm3e8o1e8v29",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagkla5f38cread7vcne",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag33sgjikcbnc6a2tjm",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagulaeturjvgfbt5i42",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eaghomum0rcp7rv7f33r",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag6p7evv0bstqa37073",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagcftqep9ja70opc1pi",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagrlp77ivvv6vdhkatc",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag3ro1uo2j4hk9oicgr",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag41jmvvngrg6115cgb",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagj43hm2gdbv5n1hijs",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagf9paqta78j2jb8h29",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagqdtbc5ccld9gsv6dd",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag4fvhoe440lama4odq",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagcn8csnirkf6jf4eot",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0",
+                            "total_count": "2"
+                        },
+                        {
+                            "total_count": "2"
+                        }
+                    ]
+                },
+                {
+                    "classifier": "eagisbenohbv9j5mbf7v",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagdmtsf230pktphs6e2",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag1gh65afjooe98eh0v",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagm6h22sqfcf53fvjcd",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eags6a6gc9fh995ka11h",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagtmb7ii90h0jnt5731",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagdmbre4jbkf25nrd61",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag122223ir6avlk89vu",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagff3q8hgv0rf9qi7mr",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag39bco5vbv32t50rdp",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagh5kg7eu4iucg7sqat",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag1doi48p44fqotjqr1",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagmei1o65eric6udvdp",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0",
+                            "total_count": "1"
+                        },
+                        {
+                            "total_count": "1"
+                        }
+                    ]
+                },
+                {
+                    "classifier": "eagpu0l0rtof9fqh9spe",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag5ghtjbq0f4h096rc3",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagq46tl89ndttqpug89",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagp0bcfd14m10e6l4th",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag3pv9h5iauql74l9j6",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagssvsot815dmnpfstt",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eaghmrikjj0jftkqkqat",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagcfmeks87httvjp9nu",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagi1uiov9t1pfadgcjf",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag5idm6gbv98kpmsq0c",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag17uguuv9nk35asghr",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagtob1omhu2l0gf6gob",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagusq26f86it3e99b9n",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagplmkpbn04t1o4intv",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0",
+                            "total_count": "1"
+                        },
+                        {
+                            "total_count": "1"
+                        }
+                    ]
+                },
+                {
+                    "classifier": "eago2livmau4q8qftrh8",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagth45o08aiipe1a1vo",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eaggp7kfnpdjpt2kbe1m",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagb9sgrhfppau62tcom",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eaga3hvv27jks6o4vul7",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagl6cn2vrensgrkcn34",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag3e4692n76cjj1kqe6",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag53ll50cfib1i9ihjr",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eag3uitndbccfsa64jie",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagkn3k2qogrps4loa07",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagtb34bm3i99fcnesls",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                },
+                {
+                    "classifier": "eagq8d2gob8bd9fd4msk",
+                    "classifier_statistics": [
+                        {
+                            "channel_number": "0"
+                        },
+                        {}
+                    ]
+                }
+            ]
+        },
+        "summarization": {
+            "statements": [
+                {
+                    "field": {
+                        "name": "summary",
+                        "type": "TEXT",
+                        "id": "summary"
+                    },
+                    "response": [
+                        "оператор Ростислав из компании Кутер Лайн, партнёр компании один с, пытается установить соединение и поговорить с клиентом"
+                    ]
+                },
+                {
+                    "field": {
+                        "name": "client_keywords",
+                        "type": "TEXT_ARRAY",
+                        "id": "client_keywords"
+                    },
+                    "response": [
+                        ""
+                    ]
+                },
+                {
+                    "field": {
+                        "name": "call_results",
+                        "type": "TEXT_ARRAY",
+                        "id": "call_results"
+                    },
+                    "response": [
+                        "неизвестно, удалось ли установить связь с нужным лицом"
+                    ]
+                },
+                {
+                    "field": {
+                        "name": "operator_keywords",
+                        "type": "TEXT_ARRAY",
+                        "id": "operator_keywords"
+                    },
+                    "response": [
+                        "соединение установлено",
+                        "Кутер Лайн",
+                        "официальный партнёр",
+                        "один с"
+                    ]
+                },
+                {
+                    "field": {
+                        "name": "theme",
+                        "type": "TEXT",
+                        "id": "theme"
+                    },
+                    "response": [
+                        "холодный звонок"
+                    ]
+                },
+                {
+                    "field": {
+                        "name": "call_reasons",
+                        "type": "TEXT_ARRAY",
+                        "id": "call_reasons"
+                    },
+                    "response": [
+                        "установление соединения с клиентом"
+                    ]
+                },
+                {
+                    "field": {
+                        "name": "problems",
+                        "type": "TEXT_ARRAY",
+                        "id": "problems"
+                    },
+                    "response": [
+                        "нет информации о проблемах"
+                    ]
+                }
+            ]
+        },
+        "talk_state": {
+            "processing_state": "PROCESSING_STATE_SUCCESS",
+            "algorithm_processing_infos": [
+                {
+                    "algorithm": "ALGORITHM_SPEECHKIT",
+                    "processing_state": "PROCESSING_STATE_SUCCESS"
+                },
+                {
+                    "algorithm": "ALGORITHM_YGPT",
+                    "processing_state": "PROCESSING_STATE_SUCCESS"
+                },
+                {
+                    "algorithm": "ALGORITHM_CLASSIFIER",
+                    "processing_state": "PROCESSING_STATE_SUCCESS"
+                },
+                {
+                    "algorithm": "ALGORITHM_SUMMARIZATION",
+                    "processing_state": "PROCESSING_STATE_SUCCESS"
+                },
+                {
+                    "algorithm": "ALGORITHM_EMBEDDING",
+                    "processing_state": "PROCESSING_STATE_SUCCESS"
+                }
+            ]
+        }
+    }
+]
